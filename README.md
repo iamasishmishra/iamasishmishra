@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamasishmishra&label=Profile%20views&color=0e75b6&style=flat" alt="iamasishmishra" /> </p>
 
-- 🌱 I’m currently learning New Skills **GitBash, Spring, Reactredux, SpringBoot if you have job opening on fresher for java or frontend the let me know**
+- 🌱 I’m currently learning New Skills **GitBash, Spring, Reactredux, SpringBoot if you have job openings on fresher for java or frontend then let me know**
 
 - 📫 How to reach me **asishkumarmishra688@gmail.com**
 
